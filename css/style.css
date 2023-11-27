@@ -5,3 +5,40 @@
     padding: 0;
     box-sizing: border-box;
 }
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+#calculate {
+    margin-top: 5px;
+    padding: 8px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+#label {
+    display: block;
+    margin-bottom: 5px;
+    margin-top: 20px;
+}
+
+#interest {
+    font-size: larger;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+#amount {
+    font-size: larger;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+#output {
+    text-align: center;
+    margin-top: 20px;
+    font-weight: bold;
+}
