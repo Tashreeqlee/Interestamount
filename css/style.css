@@ -10,6 +10,9 @@ body {
     text-align: center;
     padding: 20px;
 }
+h1 {
+    text-align: center;
+}
 #calculate {
     margin-top: 5px;
     padding: 8px;
